@@ -18,6 +18,7 @@ Product_Category, Price, Is_On_Sale.
 <img src="./WhatsApp Image 2025-12-12 at 6.40.33 PM.jpeg" width="400">
 
 <img src="./correlation.jpeg" width="400">
+
 ## Model Training
 ### 1) LSTM
 category 0:Test MAE: 5.690, RMSE: 43.828, MAPE: 8.700%\
