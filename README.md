@@ -20,7 +20,7 @@ Product_Category, Price, Is_On_Sale.
 category 0:Test MAE: 5.690, RMSE: 43.828, MAPE: 8.700%\
 category 1:Test MAE: 5.797, RMSE: 66.378, MAPE: 15.995%\
 category 2:Test MAE: 11.596, RMSE: 209.776, MAPE: 11.936%\
-S.No     &ensp;&ensp;          Date     &ensp;&ensp;     0   &ensp;  &ensp;     1     &ensp; &ensp;     2   &ensp;&ensp;    total_units\
+S.No     &ensp;&ensp;          Date     &ensp;&ensp; &ensp;    0   &ensp;  &ensp; &ensp;    1     &ensp; &ensp;&ensp;     2   &ensp;&ensp; &ensp;   total_units\
 0         &ensp;       2025-12-13 &ensp; 64.059563 &ensp; 39.325989 &ensp; 108.077087 &ensp;  211.462639\
 1         &ensp;       2025-12-14  &ensp;64.051582  &ensp;45.130676 &ensp; 115.484825 &ensp;  224.667084\
 2         &ensp;       2025-12-15&ensp;  64.041199&ensp;  48.390911&ensp;  120.288803  &ensp; 232.720913\
