@@ -123,7 +123,7 @@ This shows that the time-series model has captured weekly seasonality—customer
 This insight helps retail teams plan inventory, staffing, and supply-chain operations proactively.
 
 ## Contributions
-Vikram Patil: Data collection,Preprocessing,EDA,Feature Engineering
-Karthikeya: Data Collection, Model training, Continuous improvisation over approaches and model training
+Vikram Patil: Data collection,Preprocessing,EDA,Feature Engineering\
+Karthikeya: Data Collection, Model training, Continuous improvisation over approaches and model training\
 Nikhil: Database connection, Model traing, Streamlit deployment 
 
