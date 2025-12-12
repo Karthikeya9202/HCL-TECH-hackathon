@@ -32,3 +32,6 @@ S.No     &ensp;&ensp;          Date     &ensp;&ensp; &ensp;&ensp;&ensp;    0   &
 4         &ensp;       2025-12-17  &ensp;64.024300&ensp;  44.476101  &ensp;114.298599&ensp;   222.799000\
 5          &ensp;      2025-12-18&ensp;  64.018776 &ensp; 38.297073 &ensp; 105.160355 &ensp;  207.476204\
 6          &ensp;      2025-12-19 &ensp; 64.014496 &ensp; 31.517681&ensp;   95.028458 &ensp;  190.560635
+
+### 2)Linear Regression, Random Forest, XGBoost
+
