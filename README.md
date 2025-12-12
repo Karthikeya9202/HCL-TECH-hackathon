@@ -28,6 +28,8 @@ Product_Category, Price, Is_On_Sale.
 
 <img src="./correlation.jpeg" width="800">
 
+Finally Ingested the cleaned data into the Database again.
+
 ## Model Training
 ### 1) LSTM
 category 0:Test MAE: 5.690, RMSE: 43.828, MAPE: 8.700%\
