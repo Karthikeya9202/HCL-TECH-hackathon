@@ -1,6 +1,13 @@
 # HCL-TECH-hackathon
 ## Project summary
-This project builds and compares time-series forecasting models to predict daily Units_Sold for multiple product categories (Clothing, Household, Electronics). It uses a simulated retail dataset that contains a target (Units_Sold) plus macro (exogenous) and category-specific features. The goal is accurate 7-day ahead forecasting for each product category using classical and ML/Deep learning approaches. See the project brief and dataset description for details. 
+This project builds and compares time-series forecasting models to predict daily Units_Sold for multiple product categories (Clothing, Household, Electronics). It uses a simulated retail dataset that contains a target (Units_Sold) plus macro (exogenous) and category-specific features. The goal is accurate 7-day ahead forecasting for each product category using classical and ML/Deep learning approaches. See the project brief and dataset description for details.
+
+## objectives
+The primary goal of this project was to develop and compare high-accuracy time series forecasting models to predict Daily Units Sold for multiple product categories (Clothing, Household, Electronics).\
+• Target Variable: Daily Units Sold of different categories. \
+• Key Challenge: Forecasting multiple, highly volatile series simultaneously while incorporating 
+numerous external factors (exogenous variables). 
+
 ## Key points from the data documentation (source)
 
 ### Target: 
@@ -11,7 +18,7 @@ Rainfall_mm (log-transformed), Avg_Daily_Temperature, Demand_Index, Is_Holiday, 
 Product_Category, Price, Is_On_Sale. 
 ### Preprocessing notes: 
 1)missing value handling (ffill, interpolation)\
-2)label encoding for Product_Category \
+2)label encoding for Product_Category(0: Clothing, 1:Electronics ,2: Household)\
 3)StandardScaler applied to exogenous numerical features (target left unscaled)\
 4)log transform applied to rainfall.
 
