@@ -114,5 +114,16 @@ Overall, the forecasting pipeline provides actionable insights that help retail 
 
 We have deployed our current best model Holt Winter using streamlit
 
-<img src="./WhatsApp Image 2025-12-12 at 9.25.58 PM.jpeg" width="600">
 <img src="./WhatsApp Image 2025-12-12 at 9.26.45 PM.jpeg" width="600">
+
+<img src="./WhatsApp Image 2025-12-12 at 9.25.58 PM.jpeg" width="600">
+
+Our model predicts 2 clear spikes in demand, corresponding to the weekends.
+This shows that the time-series model has captured weekly seasonality—customers tend to purchase more during weekends, and the model has generalized this pattern into the forecast.
+This insight helps retail teams plan inventory, staffing, and supply-chain operations proactively.
+
+## Contributions
+Vikram Patil: Data collection,Preprocessing,EDA,Feature Engineering
+Karthikeya: Data Collection, Model training, Continuous improvisation over approaches and model training
+Nikhil: Database connection, Model traing, Streamlit deployment 
+
