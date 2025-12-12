@@ -14,6 +14,7 @@ Product_Category, Price, Is_On_Sale.
 2)label encoding for Product_Category \
 3)StandardScaler applied to exogenous numerical features (target left unscaled)\
 4)log transform applied to rainfall.
+<img src="./WhatsApp Image 2025-12-12 at 6.40.33 PM.jpeg" width="400">
 <img src="./correlation.jpeg" width="400">
 ## Model Training
 ### 1) LSTM
