@@ -14,7 +14,7 @@ Product_Category, Price, Is_On_Sale.
 2)label encoding for Product_Category \
 3)StandardScaler applied to exogenous numerical features (target left unscaled)\
 4)log transform applied to rainfall.
-
+<img src="./correlation.jpeg" width="400">
 ## Model Training
 ### 1) LSTM
 category 0:Test MAE: 5.690, RMSE: 43.828, MAPE: 8.700%\
