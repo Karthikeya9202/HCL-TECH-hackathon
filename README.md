@@ -91,6 +91,7 @@ Next 14 days prediction using Random Forest regressor:
 <img src="./WhatsApp Image 2025-12-12 at 7.07.24 PM.jpeg" width="600">
 
 <img src="./WhatsApp Image 2025-12-12 at 7.07.24 PM (1).jpeg" width="600">
+Next 14 days prediction:
 
 <img src="./Screenshot 2025-12-12 194315.png" width="600">
 
