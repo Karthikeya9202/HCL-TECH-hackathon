@@ -35,3 +35,4 @@ S.No     &ensp;&ensp;          Date     &ensp;&ensp; &ensp;&ensp;&ensp;    0   &
 
 ### 2)Linear Regression, Random Forest, XGBoost
 
+<img src="./WhatsApp Image 2025-12-12 at 7.07.24 PM (1).jpeg" width="400">
