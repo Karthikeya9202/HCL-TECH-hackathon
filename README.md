@@ -112,4 +112,4 @@ By using the predicted units sold for the upcoming week, stores can make data-dr
 
 Overall, the forecasting pipeline provides actionable insights that help retail stores proactively manage stock, reduce operational uncertainty, and support more strategic investment decisions.
 
-If you want, I can also help you write a final summary, business impact statement, or executive-level conclusion for your README / PPT.
+We have deployed our current best model Holt Winter using streamlit
