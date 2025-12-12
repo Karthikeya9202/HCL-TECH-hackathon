@@ -10,7 +10,7 @@ numerous external factors (exogenous variables).
 
 ## Key points from the data documentation (source)
 
-<img src="./Screenshot 2025-12-12 192517.png" width="400">
+<img src="./Screenshot 2025-12-12 192517.png" width="1000">
 
 ### Target: 
 Units_Sold (daily count). 
