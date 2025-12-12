@@ -74,12 +74,13 @@ month → captures monthly seasonality
 
 4️⃣ Data Cleaning
 
-Rows containing missing values generated from lag and rolling features were removed.
+Rows containing missing values generated from lag and rolling features were removed.\
 model performances:
 
 <img src="./WhatsApp Image 2025-12-12 at 7.07.24 PM (2).jpeg" width="600">
 
 <img src="./WhatsApp Image 2025-12-12 at 7.07.24 PM (3).jpeg" width="600">
+Next 14 days prediction using Random Forest regressor:
 
 <img src="./WhatsApp Image 2025-12-12 at 7.07.24 PM (4).jpeg" width="600">
 
