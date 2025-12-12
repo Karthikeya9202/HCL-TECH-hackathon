@@ -12,6 +12,8 @@ numerous external factors (exogenous variables).
 
 <img src="./Screenshot 2025-12-12 192517.png" width="1000">
 
+This raw csv file ingested into MS Server database and then loaded that dataset from server to proceed with data preprocessing.
+
 ### Target: 
 Units_Sold (daily count). 
 ### Macro / exogenous features (shared across categories): 
