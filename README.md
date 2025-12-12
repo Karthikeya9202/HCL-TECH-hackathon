@@ -24,9 +24,9 @@ Product_Category, Price, Is_On_Sale.
 3)StandardScaler applied to exogenous numerical features (target left unscaled)\
 4)log transform applied to rainfall.
 
-<img src="./WhatsApp Image 2025-12-12 at 6.40.33 PM.jpeg" width="400">
+<img src="./WhatsApp Image 2025-12-12 at 6.40.33 PM.jpeg" width="700">
 
-<img src="./correlation.jpeg" width="400">
+<img src="./correlation.jpeg" width="800">
 
 ## Model Training
 ### 1) LSTM
@@ -45,16 +45,16 @@ S.No     &ensp;&ensp;          Date     &ensp;&ensp; &ensp;&ensp;&ensp;    0   &
 ### 2)Linear Regression, Random Forest, XGBoost
 
 
-<img src="./WhatsApp Image 2025-12-12 at 7.07.24 PM (2).jpeg" width="400">
+<img src="./WhatsApp Image 2025-12-12 at 7.07.24 PM (2).jpeg" width="600">
 
-<img src="./WhatsApp Image 2025-12-12 at 7.07.24 PM (3).jpeg" width="400">
+<img src="./WhatsApp Image 2025-12-12 at 7.07.24 PM (3).jpeg" width="600">
 
-<img src="./WhatsApp Image 2025-12-12 at 7.07.24 PM (4).jpeg" width="400">
+<img src="./WhatsApp Image 2025-12-12 at 7.07.24 PM (4).jpeg" width="600">
 
 
 ### 3)Holt winter
-<img src="./WhatsApp Image 2025-12-12 at 7.07.24 PM.jpeg" width="400">
+<img src="./WhatsApp Image 2025-12-12 at 7.07.24 PM.jpeg" width="600">
 
-<img src="./WhatsApp Image 2025-12-12 at 7.07.24 PM (1).jpeg" width="400">
+<img src="./WhatsApp Image 2025-12-12 at 7.07.24 PM (1).jpeg" width="600">
 
 
