@@ -44,35 +44,35 @@ S.No     &ensp;&ensp;          Date     &ensp;&ensp; &ensp;&ensp;&ensp;    0   &
 
 ### 2)Linear Regression, Random Forest, XGBoost
 
-Feature Engineering for Machine Learning Models\
+Feature Engineering for Machine Learning Models
 
-Machine Learning models do not inherently understand time-series patterns, so feature engineering is required to provide temporal context.\
-The following features were created to help ML models learn trends, seasonality, and past dependencies:\
+Machine Learning models do not inherently understand time-series patterns, so feature engineering is required to provide temporal context.
+The following features were created to help ML models learn trends, seasonality, and past dependencies:
 
-1️⃣ Lag Features\
-Used to capture past sales behavior:\
+1️⃣ Lag Features
+Used to capture past sales behavior:
 
-lag_1 → previous day's sales\
+lag_1 → previous day's sales
 
-lag_7 → previous week's sales\
+lag_7 → previous week's sales
 
-lag_14 → bi-weekly sales pattern\
+lag_14 → bi-weekly sales pattern
 
-2️⃣ Rolling Window Feature\
+2️⃣ Rolling Window Feature
 
-Used to capture smoothed trends:\
+Used to capture smoothed trends:
 
-ma_7 → 7-day moving average of sales\
+ma_7 → 7-day moving average of sales
 
-3️⃣ Calendar Features\
+3️⃣ Calendar Features
 
-Used to capture recurring seasonal patterns:\
+Used to capture recurring seasonal patterns:
 
-dayofweek → indicates weekday/weekend effects\
+dayofweek → indicates weekday/weekend effects
 
-month → captures monthly seasonality\
+month → captures monthly seasonality
 
-4️⃣ Data Cleaning\
+4️⃣ Data Cleaning
 
 Rows containing missing values generated from lag and rolling features were removed.
 
