@@ -10,7 +10,7 @@ Rainfall_mm (log-transformed), Avg_Daily_Temperature, Demand_Index, Is_Holiday, 
 ### Category-specific features: 
 Product_Category, Price, Is_On_Sale. 
 ### Preprocessing notes: 
-1)missing value handling (ffill, interpolation)/ 
+1)missing value handling (ffill, interpolation)\
 2)label encoding for Product_Category 
 3)StandardScaler applied to exogenous numerical features (target left unscaled)
 4)log transform applied to rainfall. 
