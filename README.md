@@ -97,15 +97,15 @@ Both Holt-Winters and the Random Forest Regressor demonstrated strong forecastin
 
 By using the predicted units sold for the upcoming week, stores can make data-driven decisions on:
 
-Optimizing inventory levels
+1)Optimizing inventory levels
 
-Avoiding overstocking or stockouts
+2)Avoiding overstocking or stockouts
 
-Planning procurement and logistics
+3)Planning procurement and logistics
 
-Allocating resources more efficiently
+4)Allocating resources more efficiently
 
-Improving revenue through smarter demand planning
+5)Improving revenue through smarter demand planning
 
 Overall, the forecasting pipeline provides actionable insights that help retail stores proactively manage stock, reduce operational uncertainty, and support more strategic investment decisions.
 
