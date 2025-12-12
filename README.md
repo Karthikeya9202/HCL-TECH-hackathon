@@ -115,4 +115,4 @@ Overall, the forecasting pipeline provides actionable insights that help retail 
 We have deployed our current best model Holt Winter using streamlit
 
 <img src="./WhatsApp Image 2025-12-12 at 9.25.58 PM.jpeg" width="600">
-<img src="./WhatsApp Image 2025-12-12 at 7.07.24 PM (1).jpeg" width="600">
+<img src="./WhatsApp Image 2025-12-12 at 9.26.45 PM.jpeg" width="600">
