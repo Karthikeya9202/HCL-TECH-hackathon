@@ -34,5 +34,8 @@ S.No     &ensp;&ensp;          Date     &ensp;&ensp; &ensp;&ensp;&ensp;    0   &
 6          &ensp;      2025-12-19 &ensp; 64.014496 &ensp; 31.517681&ensp;   95.028458 &ensp;  190.560635
 
 ### 2)Linear Regression, Random Forest, XGBoost
-
+<img src="./WhatsApp Image 2025-12-12 at 7.07.24 PM .jpeg" width="400">
 <img src="./WhatsApp Image 2025-12-12 at 7.07.24 PM (1).jpeg" width="400">
+<img src="./WhatsApp Image 2025-12-12 at 7.07.24 PM (2).jpeg" width="400">
+<img src="./WhatsApp Image 2025-12-12 at 7.07.24 PM (3).jpeg" width="400">
+<img src="./WhatsApp Image 2025-12-12 at 7.07.24 PM (4).jpeg" width="400">
