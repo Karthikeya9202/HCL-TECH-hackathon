@@ -92,3 +92,21 @@ Next 14 days prediction using Random Forest regressor:
 
 <img src="./Screenshot 2025-12-12 194315.png" width="600">
 
+## Conclusion
+Both Holt-Winters and the Random Forest Regressor demonstrated strong forecasting performance, accurately capturing the underlying patterns in the historical sales data. These models effectively leveraged seasonality, trend components, and engineered features to produce reliable short-term forecasts.
+
+By using the predicted units sold for the upcoming week, stores can make data-driven decisions on:
+
+Optimizing inventory levels
+
+Avoiding overstocking or stockouts
+
+Planning procurement and logistics
+
+Allocating resources more efficiently
+
+Improving revenue through smarter demand planning
+
+Overall, the forecasting pipeline provides actionable insights that help retail stores proactively manage stock, reduce operational uncertainty, and support more strategic investment decisions.
+
+If you want, I can also help you write a final summary, business impact statement, or executive-level conclusion for your README / PPT.
